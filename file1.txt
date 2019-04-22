@@ -1,3 +1,2 @@
 file1
-
-Soy el programador 2 y modifico el archivo file1
+modifico todo
